@@ -1,0 +1,15 @@
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/bin/Debug/net6.0/54
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/bin/Debug/net6.0/54.deps.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/bin/Debug/net6.0/54.runtimeconfig.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/bin/Debug/net6.0/54.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/bin/Debug/net6.0/54.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/obj/Debug/net6.0/54.csproj.AssemblyReference.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/obj/Debug/net6.0/54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/obj/Debug/net6.0/54.AssemblyInfoInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/obj/Debug/net6.0/54.AssemblyInfo.cs
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/obj/Debug/net6.0/54.csproj.CoreCompileInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/obj/Debug/net6.0/54.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/obj/Debug/net6.0/refint/54.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/obj/Debug/net6.0/54.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/obj/Debug/net6.0/54.genruntimeconfig.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 8. Двумерные массивы. Продолжение/HW8/54/obj/Debug/net6.0/ref/54.dll
